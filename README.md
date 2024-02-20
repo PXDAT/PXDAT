@@ -1,9 +1,4 @@
-- 👋 Hi, I’m pxdat
+- 👋 Hi, I’m Pham Xuan Dat
 - 👀 I’m interested in IOT and cybersecurity
 - 🌱 I’m currently learning ar Thai Phien High School, Hai Phong, Vietnam
-- 💞️ I’m looking to collaborate on ETH Zurich polytechnic
-
-<!---
-PXDAT/PXDAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on DIY projects and cybersecurity courses
